@@ -1,5 +1,15 @@
+<style>
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 15px;
+}
+
 p {
-  fborder: 1px solid black;
+  border: 1px solid black;
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
@@ -8,14 +18,6 @@ p {
   font-family: Helvetica;
   color: white;
 }
-* {
-  box-sizing: border-box;
-}
-h1 {
-margin-bottom: 15px;
-font-size: 40px;
-color: blue;
-text-align: center;}
 
 /* Simple Responsive Framework. */
 .row {
@@ -109,3 +111,5 @@ text-align: center;}
     width: 100%;
   }
 }
+
+</style>
