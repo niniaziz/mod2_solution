@@ -27,9 +27,10 @@ p {
 .p2 {
   position: relative;
   right: 0;
+  text-align: right;
   background-color: #DEB887;
   width: 75px;
-  height: 50px;
+  height: 25px;
 }
 
 /* Simple Responsive Framework. */
