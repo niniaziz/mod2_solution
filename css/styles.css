@@ -8,6 +8,7 @@ h1 {
   text-align:center;
 }
 div#container {
+  position: relative;
   background-color:#A52A2A;
 
 }
@@ -22,7 +23,7 @@ p {
   color:white;
   top: 10px;
 }
-#p2 {
+.p2 {
   position: absolute;
   background-color: #DEB887;
   width: 75px;
