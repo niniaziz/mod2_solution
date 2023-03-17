@@ -10,7 +10,6 @@ h1 {
 div#container {
   background-color:#A52A2A;
   position: relative;
-  top: 60px;
 }
 p {
   border: 1px solid black;
@@ -28,7 +27,7 @@ p {
 #p2 {
   background-color: #DEB887;
   width: 75px;
-  top: 65px;
+  top:0px;
 }
 
 /* Simple Responsive Framework. */
