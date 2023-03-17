@@ -25,11 +25,9 @@ p {
     background-color:#A52A2A;
 }
 .p2 {
-  position: absolute;
   background-color: #DEB887;
   width: 75px;
   height: 50px;
-  right: 0;
 }
 
 /* Simple Responsive Framework. */
