@@ -20,13 +20,11 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color:white;
-  top: 10px;
 }
 .p1{
     background-color:#A52A2A;
 }
 .p2 {
-  position: absolute;
   background-color: #DEB887;
   width: 75px;
   height: 50px;
