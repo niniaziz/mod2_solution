@@ -28,6 +28,7 @@ p {
   position: absolute;
   background-color: #DEB887;
   width: 75px;
+  height: 50px;
 }
 
 /* Simple Responsive Framework. */
