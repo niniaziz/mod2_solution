@@ -25,6 +25,7 @@ p {
 #p2 {
   background-color: #DEB887;
   position: relative;
+  width: 150px;
   top: 65px;
   left: 65px;
 }
