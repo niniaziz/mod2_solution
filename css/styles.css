@@ -22,10 +22,11 @@ p {
   color:white;
 }
 .p1{
+    position: relative;
     background-color:#A52A2A;
 }
 .p2 {
-  position: relative;
+  position: absolute;
   right: 0;
   text-align: right;
   background-color: #DEB887;
