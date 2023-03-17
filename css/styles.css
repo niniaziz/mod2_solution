@@ -29,6 +29,8 @@ p {
   background-color: #DEB887;
   width: 75px;
   height: 50px;
+  top: 0;
+  right: 0;
 }
 
 /* Simple Responsive Framework. */
