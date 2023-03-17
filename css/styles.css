@@ -8,10 +8,10 @@ h1 {
   text-align:center;
 }
 div#container {
-  background-color:#A52A2A;
   position: relative;
 }
 p {
+  background-color:#A52A2A;
   border: 1px solid black;
   width: 90%;
   height: 100%;
