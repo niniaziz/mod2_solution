@@ -9,9 +9,10 @@ h1 {
 }
 div#container {
   position: relative;
+  background-color:#A52A2A;
+
 }
 p {
-  background-color:#A52A2A;
   border: 1px solid black;
   width: 90%;
   height: 100%;
@@ -19,10 +20,6 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color:white;
-}
-#p1{
-    
-
 }
 #p2 {
   position: absolute;
